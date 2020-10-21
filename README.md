@@ -1,3 +1,5 @@
+[![Example Code header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Example_Code.png)](https://opensource.newrelic.com/oss-category/#example-code)
+
 # fluentd-helm
 
 This Helm chart deploys Fluentd as a DaemonSet for New Relic Logging. This chart was created specifically for customers who use fluentd to capture logs and Amazon EC2 tags from their Kubernetes environments
@@ -60,3 +62,21 @@ tolerations:
 ## Legal
 
 This project is provided AS-IS WITHOUT WARRANTY OR SUPPORT, although you can report issues and contribute to the project here on GitHub.
+
+# Privacy
+
+At New Relic we take your privacy and the security of your information seriously, and are committed to protecting your information. We must emphasize the importance of not sharing personal data in public forums, and ask all users to scrub logs and diagnostic information for sensitive information, whether personal, proprietary, or otherwise.
+
+We define “Personal Data” as any information relating to an identified or identifiable individual, including, for example, your name, phone number, post code or zip code, Device ID, IP address, and email address.
+
+For more information, review [New Relic’s General Data Privacy Notice](https://newrelic.com/termsandconditions/privacy).
+
+**A note about vulnerabilities**
+
+As noted in our [security policy](../../security/policy), New Relic is committed to the privacy and security of our customers and their data. We believe that providing coordinated disclosure by security researchers and engaging with the security community are important means to achieve our security goals.
+
+If you believe you have found a security vulnerability in this project or any of New Relic's products or websites, we welcome and greatly appreciate you reporting it to New Relic through [HackerOne](https://hackerone.com/newrelic).
+
+## License
+
+fluentd-helm is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
