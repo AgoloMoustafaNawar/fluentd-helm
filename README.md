@@ -1,3 +1,5 @@
+[![Archived header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Archived.png)](https://opensource.newrelic.com/oss-category/#archived)
+
 # fluentd-helm
 
 This Helm chart deploys Fluentd as a DaemonSet for New Relic Logging. This chart was created specifically for customers who use fluentd to capture logs and Amazon EC2 tags from their Kubernetes environments
